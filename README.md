@@ -1,9 +1,7 @@
 # Concha
 
-Docker container for 3-variable classifer: docker pull twaitesjosh/concha-main
+Main represents the code used for the main task. e.g. only 3 inputs and no API
+opt-1 represents the code used for the API, 
+opt-2 represents the code used for the 4 input task
 
-Docker container for 4-variable classifer: docker pull twaitesjosh/concha-opt2
-
-Do run both with the -i interactive tab, as they both take user input
-
-It is worth noting that they only accept inputs that are multiples of 5 as these are the only possible correct inputs.
+The API is on a AWS ec2 server adress:`ec2-18-118-160-157.us-east-2.compute.amazonaws.com`
