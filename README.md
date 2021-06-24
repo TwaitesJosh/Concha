@@ -5,8 +5,7 @@ The report covers more or less everything.
 Main represents the code used for the main task. e.g. only 3 inputs and no API
 
 
-opt-1 represents the code used for the API, 
-
+opt-1 represents the code used for the API
 
 opt-2 represents the code used for the 4 input task
 
