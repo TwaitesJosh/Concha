@@ -20,5 +20,5 @@ The commands:
 
 ` docker run -i twaitesjosh/concha-main `\ `docker run -i twaitesjosh/concha-opt2` 
 
-will allow you access to the containers.
+will allow you access to the containers. The `-i` tag is becuase they are interactive.
 
