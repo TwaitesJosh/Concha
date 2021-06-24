@@ -1,5 +1,5 @@
 # Concha
-Opt-2 represents the code used for the second optional task. e.g. only 4 inputs
+Opt-2 represents the code used for the second optional task. e.g. take 3 inpits and suggets a 4th input.
 
 Docker containers storing the code for main and opt-2 are located in my docker-hub account `twaitesjosh`
 
